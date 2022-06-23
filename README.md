@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adebayo2016" alt="Adebayo2016" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Hardeywalexhino" target="blank"><img src="https://img.shields.io/twitter/follow/Hardeywalexhino?logo=twitter&style=for-the-badge" alt="Hardeywalexhino" /></a> </p>
+<p align="left"> <a href="https://twitter.com/xhino_codes" target="blank"><img src="https://img.shields.io/twitter/follow/Hardeywalexhino?logo=twitter&style=for-the-badge" alt="Hardeywalexhino" /></a> </p>
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Hardeywalexhino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="walexhino" height="30" width="40" /></a>
+<a href="https://twitter.com/xhino_codes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="walexhino" height="30" width="40" /></a>
 
 <a href="https://medium.com/@walexhino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@walexhino" height="30" width="40" /></a>
 </p>
