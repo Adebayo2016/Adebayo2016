@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adebayo2016" alt="Adebayo2016" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/xhino_codes" target="blank"><img src="https://img.shields.io/twitter/follow/Hardeywalexhino?logo=twitter&style=for-the-badge" alt="Hardeywalexhino" /></a> </p>
+<p align="left"> <a href="https://twitter.com/xhino_codes" target="blank"><img src="https://img.shields.io/twitter/follow/xhino_codes?logo=twitter&style=for-the-badge" alt="Hardeywalexhino" /></a> </p>
 
 
 
